@@ -6,4 +6,4 @@ more in-detail info about data science.
 
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souviksgithub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souviksgithub&layout=compact)](https://github.com/souviksgithub/github-readme-stats)
